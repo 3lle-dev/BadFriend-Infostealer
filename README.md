@@ -15,7 +15,7 @@ Currently, it can exfiltrate the following information:
 
 ## Demo📽
 
-🔗 https://youtu.be/X24tHG7ckw8
+🔗 https://youtu.be/zQyf3deMcZw
 
 ## Usage😼
 To exfiltrate data, the tool creates temporary files on the host machine, which are deleted after the exfiltration process. These files are then uploaded to a Discord server specified by you.
