@@ -1,5 +1,8 @@
 # BadFriend Infostealer👹
-A Powershell infostealer that uses Discord.
+A Powershell infostealer that uses Discord to exfiltrate sensitive Data.
+
+![finalThumbnail](https://github.com/user-attachments/assets/3103b146-27a2-418c-8034-c165793fd091)
+
 
 ## Overview👀
 This tool has been created using Powershell and it uses different methods to exfiltrate different infos.
