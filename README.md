@@ -18,7 +18,7 @@ Currently, it can exfiltrate the following information:
 🔗 https://youtu.be/zQyf3deMcZw
 
 ## Usage😼
-To exfiltrate data, the tool creates temporary files on the host machine, which are deleted after the exfiltration process. These files are then uploaded to a Discord server specified by you.
+To exfiltrate data, the tool creates temporary files on the host machine, which are deleted after the exfiltration process. These files are then uploaded to a Discord server specified by you using the variable `$hookUrl`.
 Hence, to use the tool you need to set up a Discord server👻
 
 In the video below (starting at second 45), I explain how to create a Discord server and a webhook. It takes less than one minute.
