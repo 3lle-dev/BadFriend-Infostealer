@@ -21,9 +21,9 @@ Currently, it can exfiltrate the following information:
 To exfiltrate data, the tool creates temporary files on the host machine, which are deleted after the exfiltration process. These files are then uploaded to a Discord server specified by you using the variable `$hookUrl`.
 Hence, to use the tool you need to set up a Discord server👻
 
-In the video below (starting at second 45), I explain how to create a Discord server and a webhook. It takes less than one minute.
+The video below shows how to create a webhook. It takes less than one minute.
 
-🔗 https://www.youtube.com/watch?v=1OHCafosyZs
+🔗 https://www.youtube.com/watch?v=fKksxz2Gdnc
 
 Once the server is set up, you can run the tool however you prefer. In the demo, I used a **USB Rubber Ducky** configured using this [repository](https://github.com/dbisu/pico-ducky?tab=readme-ov-file).
 
